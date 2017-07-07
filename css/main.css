@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
 body {
-  font-family: 'Open Sans', Tahoma, Arial;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 #wrapper {
@@ -100,10 +100,6 @@ body {
   }
 }
 
-/**
- * http://applemusic.tumblr.com/
- * https://jsfiddle.net/xq56dmrh/
- */
 
 /** Ultra Light */
 @font-face {
